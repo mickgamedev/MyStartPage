@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyStartPage</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="background_picture">background picture</string>
+
+    <string name="onboarding1_header_text">connect the band properly</string>
+    <string name="onboarding2_header_text">turn on your bluetooth</string>
+    <string name="onboarding3_header_text">connect band with the app</string>
+
+    <string name="onboarding1_info_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="onboarding2_info_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="onboarding3_info_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+
+</resources>
